@@ -15,7 +15,7 @@ This is a simple bitcoin paper wallet generator has been modified from the origi
 2. External Support
 
  * Badcore wallet can import key using the following command in the console 
- 	`importprivkey('p2wpkh:L5eaxGKPZZMnanjxDzBd82VaxnHAE6MmBojiEFAVTM9mWZEhMMqG')`
+ 	`importprivkey L5eaxGKPZZMnanjxDzBd82VaxnHAE6MmBojiEFAVTM9mWZEhMMqG`
   
 3. Contributing
 
